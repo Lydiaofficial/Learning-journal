@@ -85,7 +85,11 @@ ul {
 }
 
 .blog-posts-one {
-    margin-top: 8em;
+    margin-top: 7em;
+}
+
+.blog-posts-two {
+    margin-bottom: 3em;
 }
 
 .article-body,
