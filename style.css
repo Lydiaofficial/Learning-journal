@@ -188,6 +188,17 @@ a  {
     text-decoration-line: underline;
 }
 
+/* Styling for the home link */
+a.home:active, a.home:focus, a.home:visited {
+  text-decoration: underline;
+}
+
+/* Styling for the about link */
+a.about-page:active, a.about-page:focus, a.about-page:visited {
+  text-decoration: underline;
+}
+
+
 .footer-title, 
 .copyright {
     color: #ECECEC;
