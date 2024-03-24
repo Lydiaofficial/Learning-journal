@@ -26,17 +26,17 @@ document.addEventListener('DOMContentLoaded', function() {
     
 
     if (currentPage.includes("index.html")) {
-      var homeLink = document.querySelector('.home');
+      var homeLink = document.querySelector('.home')
       if (homeLink) {
-        homeLink.style.textDecoration = 'underline';
+        homeLink.style.textDecoration = 'underline'
       }
     }
 
 
     if (currentPage.includes("about.html")) {
-      var aboutLink = document.querySelector('.about-page');
+      var aboutLink = document.querySelector('.about-page')
       if (aboutLink) {
-        aboutLink.style.textDecoration = 'underline';
+        aboutLink.style.textDecoration = 'underline'
       }
     }
 
